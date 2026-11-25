@@ -1,5 +1,7 @@
 # Atelier Lumen
 
+<h3 align="center"><b>Français</b> · <a href="README.en.md">English</a></h3>
+
 Projet personnel pour apprendre PHP et MySQL. C'est une boutique en ligne d'objets faits main, avec un catalogue de produits, une recherche et un panier d'achats qui se met à jour sans recharger la page.
 
 **Site en ligne :** [atelier-lumen.infinityfreeapp.com](https://atelier-lumen.infinityfreeapp.com)
