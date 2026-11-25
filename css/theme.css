@@ -1,0 +1,29 @@
+:root {
+    /* Palette Atelier Lumen : bois (noyer, sable), olive et rouille */
+    --clr-fond-page: #e6d9c4;      /* sable / papier kraft */
+    --clr-fond-carte: #f3ebde;     /* parchemin */
+    --clr-fond-pied: #2a1d15;      /* noyer foncé */
+    --clr-texte: #2e2018;
+    --clr-texte-doux: #5e4a3b;
+    --clr-bordure: #cdb99c;
+    --clr-couture: #b49d7c;        /* pointillés « couture » */
+
+    --clr-noyer: #3a291e;
+    --clr-olive: #56653f;
+    --clr-olive-clair: #b9c49c;
+    --clr-rouille: #8a4b2a;
+    --clr-miel: #c08a4f;
+
+    --clr-fond-principale: #3a291e;
+    --clr-fond-claire: #f3ebde;
+    --clr-fond-actif: #c08a4f;
+    --clr-fond-panier: #8a4b2a;
+    --clr-fond-boutons: #56653f;
+    --clr-fond-menu-responsive: #e6d9c4;
+
+    --clr-texte-secondaire: #f3ebde;
+    --clr-texte-tertiaire: #e1d3bd;
+
+    --boxshadow-principal: rgba(46, 32, 24, 0.22) 0px 18px 36px, rgba(46, 32, 24, 0.10) 0px 4px 10px;
+    --boxshadow-carte: rgba(46, 32, 24, 0.10) 0px 6px 16px;
+}

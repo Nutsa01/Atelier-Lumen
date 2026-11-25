@@ -1,0 +1,166 @@
+{
+	"entete": {
+		"altLogo": "Homepage",
+		"placeholderRecherche": "Search for a product",
+		"menuAccueil": "Home",
+		"menuCollection": "The collection",
+		"menuAPropos": "About Us",
+		"slogan": "Designed and made in Quebec",
+		"panierArticles": "Items: ",
+		"panierSousTotal": "Cart subtotal",
+		"panierVoir": "View cart",
+		"ouvrirMenu": "Open menu",
+		"ouvrirPanier": "Show cart summary",
+		"fermer": "Close"
+	},
+	"pp": {
+		"achatsTitre": "Your orders",
+		"navFaq": "FAQ",
+		"navLivraison": "Shipping and returns",
+		"aProposTitre": "Discover",
+		"joindreTitre": "Contact us",
+		"joindreLieu": "Handmade in Quebec",
+		"droits": "Atelier Lumen - All Rights Reserved"
+	},
+	"index": {
+		"metaDesc": "Atelier Lumen: candles, ceramics, wood and linen handmade in Quebec, in small batches.",
+		"heroSurtitre": "Objects studio · Quebec",
+		"heroTitre": "Handmade objects for a warmer home.",
+		"heroTexte": "Candles, ceramics, wood and linen: every Atelier Lumen piece is made by hand, in small batches, with natural materials.",
+		"heroBtnPrincipal": "Shop the collection",
+		"heroBtnSecondaire": "Our studio",
+		"atelierEtiquette": "The studio",
+		"atelierTitre": "A small studio with an eye for detail.",
+		"atelierTexte1": "At Atelier Lumen, we take our time. Candles are poured by hand, stoneware is thrown and glazed, wood is sanded and oiled, and linen is cut and sewn right here in Quebec.",
+		"atelierTexte2": "No stock gathering dust in a warehouse: we make small quantities, and we make them well, so every piece stays with you for years.",
+		"atelierSignature": "— The Atelier Lumen team",
+		"vedettesTitre": "Most popular",
+		"voirTout": "See all",
+		"btnAjouter": "Add to cart",
+		"bandeauTitre": "Find the piece your home is missing",
+		"bandeauTexte": "A soft light, a mug for your morning coffee, a board for hosting: browse the whole collection.",
+		"bandeauBtn": "Shop the collection"
+	},
+	"catalogue": {
+		"filtreEtiquette": "Category",
+		"filtreTous": "All",
+		"triEtiquette": "Sort by",
+		"triAlea": "Random",
+		"triPrixAsc": "Price: low to high",
+		"triPrixDesc": "Price: high to low",
+		"triNomAsc": "Name (A to Z)",
+		"triNomDesc": "Name (Z to A)",
+		"triNouveaute": "Newest",
+		"triVentes": "Most popular",
+		"btnAjouter": "Add to cart",
+		"resultatsPour": "Results for",
+		"effacerRecherche": "clear search",
+		"aucunProduit": "No product matches your search."
+	},
+	"collection": {
+		"metaDesc": "The full Atelier Lumen collection: candles, ceramics, wood and linen handmade in Quebec.",
+		"surtitre": "Atelier Lumen",
+		"titrePage": "The collection",
+		"sousTitre": "Candles, ceramics, wood and linen, handmade in small batches."
+	},
+	"panier": {
+		"metaDesc": "Your Atelier Lumen shopping cart.",
+		"titrePage": "Your Shopping Cart",
+		"nbArticles": "Total items: ",
+		"sousTotal": "Sub-Total: ",
+		"btnCommander": "Complete Order",
+		"prix": "Price: ",
+		"quantite": "Quantity: ",
+		"panierVide": "Your cart is empty for now.",
+		"titreSupprimer": "Remove this item from the cart",
+		"titreModifier": "Update the quantity",
+		"noteCommander": "Demo shop: no order is actually sent."
+	},
+	"apropos": {
+		"metaDesc": "The story of Atelier Lumen, how we work and what matters to us.",
+		"etiquette": "Our story",
+		"titrePage": "A small studio, objects made to last.",
+		"intro": "Atelier Lumen grew out of a simple wish: to live with objects that have a story, rather than mass-produced pieces that are quickly forgotten.",
+		"histoire1": "It started with a work table, a few tools and a lot of questions. How do you make objects that are beautiful, useful and responsible, without costing a fortune? Our answer: stay small, work close to home and never make more than we need.",
+		"histoire2": "That's where the name comes from. “Lumen” is Latin for light, the light that comes through the studio window in the morning, when the first ideas take shape on paper.",
+		"faconTitre": "How we work",
+		"etape1Titre": "We sketch",
+		"etape1Texte": "Every piece starts as a sketch in the studio. We try it at home, and only keep what we want to use every day.",
+		"etape2Titre": "We choose the material",
+		"etape2Texte": "Beeswax and soy wax, stoneware, maple, cherry and walnut, linen and wool: natural materials that age well.",
+		"etape3Titre": "We make small batches",
+		"etape3Texte": "Everything is handmade in Quebec, in small quantities, to avoid waste and unsold stock.",
+		"citation": "“We'd rather make less, but make it better.”",
+		"citationAuteur": "The Atelier Lumen team",
+		"ctaTitre": "Want to see the result?",
+		"ctaBtn": "Shop the collection"
+	},
+	"faq": {
+		"metaDesc": "Answers to frequently asked questions about Atelier Lumen products: candles, ceramics, wood, linen and wool.",
+		"titrePage": "Frequently asked questions",
+		"chapeau": "Answers to the questions we hear most often.",
+		"questions": [
+			{
+				"q": "Are your products really handmade?",
+				"r": "Yes. Every candle is poured by hand, every stoneware piece is thrown and glazed, every wooden object is sanded and oiled, and the linen is cut and sewn in our studio, in Quebec."
+			},
+			{
+				"q": "Will my piece look exactly like the photo?",
+				"r": "Almost. Since everything is handmade, the glaze, the wood grain or the weave can vary slightly from one piece to the next. That's what makes each object unique."
+			},
+			{
+				"q": "How long does a candle last?",
+				"r": "Our jar candles burn for about 40 hours, and each beeswax taper for about 8 hours. The first time you light a jar candle, let it burn for 2 hours until the whole surface melts, and trim the wick to 5 mm before each use."
+			},
+			{
+				"q": "Are the ceramics dishwasher safe?",
+				"r": "The mugs, the tumbler and the plate are dishwasher and microwave safe. The vase should be washed by hand."
+			},
+			{
+				"q": "How do I care for wooden objects?",
+				"r": "Wash them by hand in warm water and dry them right away, never let them soak. Every few weeks, a thin coat of food-grade mineral oil keeps them looking their best."
+			},
+			{
+				"q": "How do I wash linen and wool?",
+				"r": "Linen can be machine washed in cold water and dried flat or on low heat; it gets softer with every wash. The wool blanket should be hand washed in cold water with a mild soap and dried flat."
+			},
+			{
+				"q": "Do you offer gift wrapping?",
+				"r": "Yes, free of charge. Every order is wrapped in kraft paper, and we can add a small handwritten card on request."
+			}
+		],
+		"contact": "Can't find your question? Write to us at"
+	},
+	"livraison": {
+		"metaDesc": "Atelier Lumen shipping, delivery times, fees and return policy.",
+		"titrePage": "Shipping and returns",
+		"chapeau": "Everything you need to know before and after your order.",
+		"blocs": [
+			{
+				"titre": "Where do we ship?",
+				"texte": "Everywhere in Canada."
+			},
+			{
+				"titre": "Delivery times",
+				"texte": "Orders are prepared within 1 to 2 business days. Then allow 2 to 5 business days in Quebec and 3 to 8 business days elsewhere in Canada."
+			},
+			{
+				"titre": "Shipping fees",
+				"texte": "Shipping is free on orders of $75 or more. Below that, it costs $9 in Quebec and $14 elsewhere in Canada."
+			},
+			{
+				"titre": "Packaging",
+				"texte": "Recycled cardboard, kraft paper and no plastic. Fragile pieces are carefully protected so they arrive intact."
+			},
+			{
+				"titre": "Returns",
+				"texte": "You have 30 days after delivery to return an unused item in its original packaging. For hygiene and safety reasons, a candle that has been lit cannot be returned. Refunds are issued within 5 business days of receiving the return."
+			},
+			{
+				"titre": "Item broken on arrival?",
+				"texte": "Email us a photo within 7 days of delivery, and we'll send you a new piece at no cost."
+			}
+		],
+		"contact": "A question about your order? Write to us at"
+	}
+}

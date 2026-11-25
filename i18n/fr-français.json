@@ -1,0 +1,166 @@
+{
+	"entete": {
+		"altLogo": "Accueil",
+		"placeholderRecherche": "Rechercher un produit",
+		"menuAccueil": "Accueil",
+		"menuCollection": "La collection",
+		"menuAPropos": "À propos de nous",
+		"slogan": "Conçu et fabriqué au Québec",
+		"panierArticles": "Articles : ",
+		"panierSousTotal": "Sous-total du panier",
+		"panierVoir": "Voir le panier",
+		"ouvrirMenu": "Ouvrir le menu",
+		"ouvrirPanier": "Afficher le résumé du panier",
+		"fermer": "Fermer"
+	},
+	"pp": {
+		"achatsTitre": "Vos achats",
+		"navFaq": "Foire aux questions",
+		"navLivraison": "Livraison et retours",
+		"aProposTitre": "Découvrir",
+		"joindreTitre": "Nous joindre",
+		"joindreLieu": "Fait à la main au Québec",
+		"droits": "Tous droits réservés, Atelier Lumen"
+	},
+	"index": {
+		"metaDesc": "Atelier Lumen : bougies, céramique, bois et lin faits à la main au Québec, en petites séries.",
+		"heroSurtitre": "Atelier d'objets · Québec",
+		"heroTitre": "Des objets faits main, pour une maison plus chaleureuse.",
+		"heroTexte": "Bougies, céramique, bois et lin : chaque pièce d'Atelier Lumen est fabriquée à la main, en petites séries, avec des matières naturelles.",
+		"heroBtnPrincipal": "Découvrir la collection",
+		"heroBtnSecondaire": "Notre atelier",
+		"atelierEtiquette": "L'atelier",
+		"atelierTitre": "Petit atelier, grand souci du détail.",
+		"atelierTexte1": "Chez Atelier Lumen, on prend le temps. Les bougies sont coulées à la main, le grès est tourné puis émaillé, le bois est poncé et huilé, le lin est coupé et cousu ici, au Québec.",
+		"atelierTexte2": "Pas de stock qui dort dans un entrepôt : on fabrique en petites quantités, et on le fait bien, pour que chaque objet vous accompagne longtemps.",
+		"atelierSignature": "— L'équipe d'Atelier Lumen",
+		"vedettesTitre": "Les plus populaires",
+		"voirTout": "Voir tout",
+		"btnAjouter": "Ajouter au panier",
+		"bandeauTitre": "Trouvez la pièce qui manque à votre intérieur",
+		"bandeauTexte": "Une lumière douce, une tasse pour le café du matin, une planche pour recevoir : parcourez toute la collection.",
+		"bandeauBtn": "Voir la collection"
+	},
+	"catalogue": {
+		"filtreEtiquette": "Catégorie",
+		"filtreTous": "Tout",
+		"triEtiquette": "Trier par",
+		"triAlea": "Au hasard",
+		"triPrixAsc": "Prix croissant",
+		"triPrixDesc": "Prix décroissant",
+		"triNomAsc": "Nom (A à Z)",
+		"triNomDesc": "Nom (Z à A)",
+		"triNouveaute": "Nouveautés",
+		"triVentes": "Les plus populaires",
+		"btnAjouter": "Ajouter au panier",
+		"resultatsPour": "Résultats pour",
+		"effacerRecherche": "effacer la recherche",
+		"aucunProduit": "Aucun produit ne correspond à votre recherche."
+	},
+	"collection": {
+		"metaDesc": "Toute la collection d'Atelier Lumen : bougies, céramique, bois et lin faits à la main au Québec.",
+		"surtitre": "Atelier Lumen",
+		"titrePage": "La collection",
+		"sousTitre": "Bougies, céramique, bois et lin, fabriqués à la main en petites séries."
+	},
+	"panier": {
+		"metaDesc": "Votre panier d'achats Atelier Lumen.",
+		"titrePage": "Votre panier d'achats",
+		"nbArticles": "Nombre d'articles : ",
+		"sousTotal": "Sous-total : ",
+		"btnCommander": "Commander",
+		"prix": "Prix : ",
+		"quantite": "Quantité : ",
+		"panierVide": "Votre panier est vide pour l'instant.",
+		"titreSupprimer": "Retirer cet article du panier",
+		"titreModifier": "Mettre à jour la quantité",
+		"noteCommander": "Boutique de démonstration : aucune commande n'est envoyée."
+	},
+	"apropos": {
+		"metaDesc": "L'histoire d'Atelier Lumen, notre façon de travailler et ce qui nous tient à cœur.",
+		"etiquette": "Notre histoire",
+		"titrePage": "Un petit atelier, des objets faits pour durer.",
+		"intro": "Atelier Lumen est né d'une envie simple : s'entourer d'objets qui ont une histoire, plutôt que de pièces produites en masse et vite oubliées.",
+		"histoire1": "Au départ, ce n'était qu'une table de travail, quelques outils et beaucoup de questions. Comment faire des objets beaux, utiles et responsables, sans que ça coûte une fortune ? Notre réponse : rester petits, travailler près de chez nous et ne jamais produire plus que nécessaire.",
+		"histoire2": "Le nom vient de là. « Lumen », c'est la lumière en latin, celle qui entre par la fenêtre de l'atelier le matin, quand les premières idées prennent forme sur papier.",
+		"faconTitre": "Notre façon de faire",
+		"etape1Titre": "On dessine",
+		"etape1Texte": "Chaque objet commence par un croquis à l'atelier. On le teste à la maison, et on garde seulement ce qu'on a envie d'utiliser tous les jours.",
+		"etape2Titre": "On choisit la matière",
+		"etape2Texte": "Cire d'abeille et de soya, grès, bois d'érable, de cerisier et de noyer, lin et laine : des matières naturelles qui vieillissent bien.",
+		"etape3Titre": "On fabrique en petites séries",
+		"etape3Texte": "Tout est fait à la main au Québec, en petites quantités, pour éviter le gaspillage et les invendus.",
+		"citation": "« On préfère faire moins, mais mieux. »",
+		"citationAuteur": "L'équipe d'Atelier Lumen",
+		"ctaTitre": "Envie de voir le résultat ?",
+		"ctaBtn": "Découvrir la collection"
+	},
+	"faq": {
+		"metaDesc": "Réponses aux questions fréquentes sur les produits Atelier Lumen : bougies, céramique, bois, lin et laine.",
+		"titrePage": "Foire aux questions",
+		"chapeau": "Les réponses aux questions qu'on nous pose le plus souvent.",
+		"questions": [
+			{
+				"q": "Vos produits sont-ils vraiment faits à la main ?",
+				"r": "Oui. Chaque bougie est coulée à la main, chaque pièce de grès est tournée et émaillée, chaque objet en bois est poncé et huilé, et le lin est coupé et cousu à l'atelier, au Québec."
+			},
+			{
+				"q": "Chaque pièce est-elle identique à la photo ?",
+				"r": "Presque. Comme tout est fait à la main, l'émail, le veinage du bois ou le tissage peuvent varier un peu d'une pièce à l'autre. C'est ce qui rend chaque objet unique."
+			},
+			{
+				"q": "Combien de temps dure une bougie ?",
+				"r": "Nos bougies en pot brûlent environ 40 heures, et chaque chandelle en cire d'abeille environ 8 heures. Pour une bougie en pot, laissez-la brûler 2 heures la première fois, jusqu'à ce que toute la surface soit fondue, et coupez la mèche à 5 mm avant chaque utilisation."
+			},
+			{
+				"q": "La céramique va-t-elle au lave-vaisselle ?",
+				"r": "Les tasses, le gobelet et l'assiette vont au lave-vaisselle et au micro-ondes. Le vase se lave à la main."
+			},
+			{
+				"q": "Comment entretenir les objets en bois ?",
+				"r": "Lavez-les à la main à l'eau tiède et séchez-les tout de suite, sans jamais les laisser tremper. Toutes les quelques semaines, une fine couche d'huile minérale de qualité alimentaire les garde beaux."
+			},
+			{
+				"q": "Comment laver le lin et la laine ?",
+				"r": "Le lin se lave à la machine à l'eau froide et sèche à plat ou à basse température ; il devient plus doux à chaque lavage. La couverture en laine se lave à la main à l'eau froide, avec un savon doux, et sèche à plat."
+			},
+			{
+				"q": "Offrez-vous l'emballage-cadeau ?",
+				"r": "Oui, sans frais. Chaque commande est emballée dans du papier kraft, et on peut ajouter une petite carte écrite à la main sur demande."
+			}
+		],
+		"contact": "Votre question n'est pas ici ? Écrivez-nous à"
+	},
+	"livraison": {
+		"metaDesc": "Livraison, délais, frais et politique de retour d'Atelier Lumen.",
+		"titrePage": "Livraison et retours",
+		"chapeau": "Tout ce qu'il faut savoir avant et après votre commande.",
+		"blocs": [
+			{
+				"titre": "Où livrons-nous ?",
+				"texte": "Partout au Canada."
+			},
+			{
+				"titre": "Délais",
+				"texte": "Les commandes sont préparées en 1 à 2 jours ouvrables. Comptez ensuite 2 à 5 jours ouvrables au Québec et 3 à 8 jours ouvrables ailleurs au Canada."
+			},
+			{
+				"titre": "Frais de livraison",
+				"texte": "La livraison est gratuite à partir de 75 $. Sous ce montant, elle coûte 9 $ au Québec et 14 $ ailleurs au Canada."
+			},
+			{
+				"titre": "Emballage",
+				"texte": "Carton recyclé, papier kraft et aucun plastique. Les pièces fragiles sont bien protégées pour arriver intactes."
+			},
+			{
+				"titre": "Retours",
+				"texte": "Vous avez 30 jours après la réception pour retourner un objet non utilisé, dans son emballage d'origine. Pour des raisons d'hygiène et de sécurité, une bougie allumée ne peut pas être retournée. Le remboursement est fait dans les 5 jours ouvrables suivant la réception du retour."
+			},
+			{
+				"titre": "Objet brisé à la réception ?",
+				"texte": "Envoyez-nous une photo par courriel dans les 7 jours suivant la livraison, et on vous envoie une nouvelle pièce sans frais."
+			}
+		],
+		"contact": "Une question sur votre commande ? Écrivez-nous à"
+	}
+}
